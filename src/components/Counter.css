@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+    border: 2px solid rgb(85, 19, 19);
+}
+button{
+    margin: 2px 1px 5px 1px;
+    padding: 10px;
+
+}
+button:hover{
+    color: rgb(165, 30, 30);
+}
